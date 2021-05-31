@@ -1,2 +1,2 @@
 # ASPWcaptcha
-ASP .net Wsoum Captcha
+ASP .NET Wsoum Captcha
